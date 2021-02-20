@@ -10,6 +10,9 @@ Salve as alterações e crie uma mensagem de commit contando o que você fez: gi
 Envie as suas alterações: git push origin my-feature
 Caso tenha alguma dúvida confira este guia de como contribuir no GitHub
 
+
+##--
+
 🦸 Autor
 Bruna Calheiros[🚀]
 
